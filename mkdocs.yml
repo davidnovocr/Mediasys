@@ -1,4 +1,4 @@
-site_name: Tutoriales de MedIASys System
+site_name: MedIASys System
 theme:
   name: material
   palette:
@@ -12,3 +12,4 @@ nav:
   - Inicio: index.md
   - IA para clínicas: IA.md
   - Referencias: Referencias.md
+
