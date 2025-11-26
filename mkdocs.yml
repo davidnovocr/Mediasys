@@ -10,17 +10,5 @@ theme:
     code: Roboto Mono
 nav:
   - Inicio: index.md
-  - Introducción: intro.md
-  - CRM:
-      - Procedimiento Estandar: CRM/procedimientoCRM.md
-      - Otros: CRM/otrosCRM.md
-  - Conversaciones:
-      - Procedimiento Estandar: Conversaciones/conversaciones.md
-      - Favoritos: Conversaciones/Favoritos.md
-  - Dashboard:
-      - Procedimiento Estandar: Dashboard/procedimientodashboard.md
-      - Otros: Dashboard/filtrodashboard.md
-  - Calendarios:
-      - Procedimiento Estandar: Calendarios/calendario.md
-      - Otros: Calendarios/calendarionuevo.md
   - IA para clínicas: IA.md
+  - Referencias: Referencias.md
