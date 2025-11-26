@@ -6,4 +6,3 @@
     src="https://www.canva.com/design/DAG0v0oju3I/XoxW1SaKCKjYY1abcGqEPw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
   </iframe>
 </div>
-<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAG0v0oju3I&#x2F;XoxW1SaKCKjYY1abcGqEPw&#x2F;view?utm_content=DAG0v0oju3I&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Presentación de Tecnología Inteligencia Artificial Profesional Sencilla Azul y Negro</a> de daviusa2024
