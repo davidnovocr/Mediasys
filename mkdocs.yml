@@ -1,13 +1,26 @@
-site_name: SystemHack IA
+site_name: Tutoriales de MedIASys System
 theme:
   name: material
-
+  palette:
+    scheme: slate
+    primary: cyan
+    accent: indigo
+  font:
+    text: Roboto
+    code: Roboto Mono
 nav:
-  - Estrategia de conversión:
-      - Setting: setting.md
-      - Closing: closing.md
-      - Links y demás: links.md
-  - Herramientas:
-      - CRM y más: crm.md
-  - Presentacion SystemHacks: presentacion.md
-
+  - Inicio: index.md
+  - Introducción: intro.md
+  - CRM:
+      - Procedimiento Estandar: CRM/procedimientoCRM.md
+      - Otros: CRM/otrosCRM.md
+  - Conversaciones:
+      - Procedimiento Estandar: Conversaciones/conversaciones.md
+      - Favoritos: Conversaciones/Favoritos.md
+  - Dashboard:
+      - Procedimiento Estandar: Dashboard/procedimientodashboard.md
+      - Otros: Dashboard/filtrodashboard.md
+  - Calendarios:
+      - Procedimiento Estandar: Calendarios/calendario.md
+      - Otros: Calendarios/calendarionuevo.md
+  - IA para clínicas: IA.md
